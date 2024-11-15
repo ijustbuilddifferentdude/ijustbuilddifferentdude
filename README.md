@@ -1,5 +1,7 @@
 # 💫 About Me:
-first since Graydon Hoare
+Rust Monarch
+Solana powered Wizard
+Peter Yan Style
 
 
 # 💻 Tech Stack:
