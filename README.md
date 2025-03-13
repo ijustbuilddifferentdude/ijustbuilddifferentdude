@@ -1,7 +1,7 @@
 # 💫 About Me:
 #### Rust Monarch
 #### Solana powered Wizard
-#### Peter Yan Style
+#### Musashi Style
 
 
 # 💻 Tech Stack:
